@@ -122,7 +122,7 @@ function Hero() {
         <FadeUp>
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-indigo-50 border border-indigo-100 text-indigo-600 text-sm font-semibold mb-8">
             <span className="w-2 h-2 rounded-full bg-indigo-500 animate-pulse" />
-            EMNLP 2026 Submission
+           H2HMEM
           </div>
         </FadeUp>
 
@@ -161,7 +161,7 @@ function Hero() {
               Code
             </a>
             <a
-              href="https://github.com/varib1/H2HMEM"
+              href="https://huggingface.co/datasets/varib/H2HMEM"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-orange-50 hover:bg-orange-100 border border-orange-200 hover:border-orange-300 text-orange-700 font-semibold transition-all duration-200"
@@ -1163,7 +1163,7 @@ function Footer() {
   return (
     <footer className="py-10 px-6 border-t border-gray-100 bg-white">
       <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
-        <div className="text-gray-300 text-sm">H2HMem &mdash; EMNLP 2026 Submission</div>
+        <div className="text-gray-300 text-sm">H2HMem &mdash</div>
         <div className="flex gap-6">
           <a href="#introduction" className="text-gray-300 hover:text-indigo-500 text-sm transition-colors">
             Introduction
